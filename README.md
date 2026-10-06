@@ -1,1 +1,1 @@
-# plica-o-web-simples
+# aula-cypress
